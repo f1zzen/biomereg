@@ -1,0 +1,12 @@
+name: BiomeRegions
+version: '${version}'
+main: dev.f1zzen.biomeregions.BiomeRegionsPlugin
+api-version: '1.21.11'
+description: РЕГИОНЫ ZZZZZZZZZZVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+commands:
+  rg:
+    aliases: [biomeregions]
+    permission: biomeregions.admin
+permissions:
+  biomeregions.admin:
+    default: op
