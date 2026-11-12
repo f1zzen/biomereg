@@ -2,7 +2,7 @@ name: BiomeRegions
 version: '${version}'
 main: dev.f1zzen.biomeregions.BiomeRegionsPlugin
 api-version: '1.21.11'
-description: РЕГИОНЫ ZZZZZZZZZZVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+description: регионi
 commands:
   rg:
     aliases: [biomeregions]
